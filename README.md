@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdallahi Ahmed Zerough</h1>
 <h3 align="center">Un élève-ingénieur logiciel passionné de Mauritanie, ainsi qu'un data scientist et un expert en intelligence artificielle.</h3>
 
-<img align="right" alt="what is the problem " width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
+<img align="right" alt="what is the problem " width="400" src="programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
 
 - 🔭 Je travaille actuellement sur : **des applications mobiles avec Flutter.**
 
